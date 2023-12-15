@@ -16,6 +16,7 @@ typedef struct stack_s
 void push(int value);
 void pall(void);
 void pint(void);
+void pop(void);
 /* Add prototypes for other opcodes as needed */
 
 /* Global variable for the stack */
