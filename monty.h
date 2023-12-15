@@ -15,6 +15,7 @@ typedef struct stack_s
 /* Function prototypes */
 void push(int value);
 void pall(void);
+void pint(void);
 /* Add prototypes for other opcodes as needed */
 
 /* Global variable for the stack */
